@@ -16,3 +16,4 @@ https://github.com/Kirsten-Osborn/GUH2019/blob/master/Screenshot%202019-11-16%20
 ## Questions for Airbus
 - Safety requirements
 - What impact does 1x landing and take off have on the 15min flying time
+- How many aircraft do they have
