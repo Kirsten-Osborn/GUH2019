@@ -1,0 +1,8 @@
+-Identify Safe areas for service;
+ 
+	- safe area must be ~5 min walk from any area with sizeable population density
+	- possibly increase density of stations in areas with very high population density
+	- How many aircraft can take off and land at a station within an hour
+	- use this to judge number of required aircraft
+	- use this info to find optimal hub location
+	
